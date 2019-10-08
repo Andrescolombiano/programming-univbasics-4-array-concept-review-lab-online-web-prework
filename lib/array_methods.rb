@@ -25,6 +25,7 @@ array.length.times {|index|
 if [index] < x 
   x = array [index]
 end
+}
 x 
 end
 
